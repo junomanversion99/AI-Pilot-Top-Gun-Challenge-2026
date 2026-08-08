@@ -1,6 +1,7 @@
 # AI Pilot Top Gun Challenge 2026 — F-16 1 vs 1 공중전 AI
 
 >  JSBSim 환경에서 **계층적 아키텍처 + Discrete SAC + potential-based reward shaping + 커리큘럼 러닝** 으로 전투기 Dogfight AI agent 개발 
+**[AI Pilot Top Gun Challenge 2026 (Notion)](https://hot-pike-57a.notion.site/AI-Pilot-Top-Gun-Challenge-2026-3b55e8dc640081e0b2a3f802b161ee1e?source=copy_link)**
 
 ![](assets/hero.png)
 
