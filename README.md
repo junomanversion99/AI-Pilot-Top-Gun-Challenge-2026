@@ -184,6 +184,8 @@ r_t = \gamma\Phi(s_{t+1}) - \Phi(s_t) + 40\cdot\Delta\text{damage} + r_{terminal
 
 <sub>▶ 원본 화질: [engagement_replay.mp4](assets/engagement_replay.mp4)</sub>
 
+![격추로 끝난 실제 교전 분석 — 궤적·고도·사거리](assets/replay_still.png)
+
 110초 동안 세 차례 사격 조건이 성립해 상대 HP가 `1.00 → 0.70 → 0.41 → 격추`로 떨어졌다. 세 번 모두 사거리 구간(152–914 m) 안에서 발생했고, ownship은 피격을 받지 않았다. 보상 곡선만 보지 않고 궤적을 직접 재생해 확인하는 것을 검증 절차로 삼았다.
 
 ---
