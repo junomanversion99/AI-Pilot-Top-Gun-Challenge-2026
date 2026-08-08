@@ -1,6 +1,6 @@
 # AI Pilot Top Gun Challenge 2026 — F-16 1 vs 1 공중전 AI
 
-> 희소 보상(조준 창 ±16 m)의 고충실도 공중전을 **계층적 구조 설계 + Discrete SAC + potential-based reward shaping + 커리큘럼**으로 공략한 기록.
+>  JSBSim 환경에서 **계층적 아키텍처 + Discrete SAC + potential-based reward shaping + 커리큘럼 러닝** 으로 전투기 Dogfight AI agent 개발 
 
 ![](assets/hero.png)
 
