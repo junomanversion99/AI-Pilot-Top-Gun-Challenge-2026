@@ -97,6 +97,8 @@ BFM 교본의 전술 기동을 검토해, **VP 단일점 + Throttle로 실현 �
 
 <img src="assets/switch_verify.png" width="75%">
 
+▶ **[모드 전환 데모 영상 보기 (mp4)](assets/mode_switch_demo.mp4)**
+
 ---
 
 ## 4. 보상 설계 — 단일 potential function
@@ -176,6 +178,8 @@ r_t = \gamma\Phi(s_{t+1}) - \Phi(s_t) + 40\cdot\Delta\text{damage} + r_{terminal
 ### 실제 교전 재생
 
 <img src="assets/replay_still.png" width="70%">
+
+▶ **[교전 리플레이 영상 보기 (mp4)](assets/engagement_replay.mp4)**
 
 110초 동안 세 차례 사격 조건이 성립해 상대 HP가 `1.00 → 0.70 → 0.41 → 격추`로 떨어졌다. 세 번 모두 사거리 구간(152–914 m) 안에서 발생했고, ownship은 피격을 받지 않았다. 보상 곡선만 보지 않고 궤적을 직접 재생해 확인하는 것을 검증 절차로 삼았다.
 
